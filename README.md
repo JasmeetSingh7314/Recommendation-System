@@ -16,10 +16,9 @@ Cosine Similarity is a metric used to measure the similarity between two vectors
 
 To use the recommendation system, follow these steps:
 
-
-1.Get the files and run the Jupyter Notebook
-2. Input user preferences.
-3. Use the model to recommend games based on the user's preferences.
+- Get the files and run the Jupyter Notebook
+- Input user preferences.
+-  Use the model to recommend games based on the user's preferences.
 
 
 
